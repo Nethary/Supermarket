@@ -1,0 +1,21 @@
+@import "home/index.css";
+
+:root{
+    --main-color-text-blue: #1D1CE5;
+
+}
+
+
+a {
+    color: black;
+}
+.container{
+    margin: 5% 15% 0 15%;
+}
+.row{
+    padding: 16px;
+    height: auto;
+    overflow: hidden;
+    border-radius: 8px;
+}
+/*              HEADER              */
